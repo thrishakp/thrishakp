@@ -44,6 +44,7 @@
   <summary><b>💼 Project Name 1 – Health Care And Well-Being Application </b></summary>
   <br>
   <p align="center">
+        <a href="https://github.com/thrishakp/Healthapplication" target="_blank">
   </p>
   <ul>
     <li>Developed a machine learning-powered web app to predict health risks with 85% accuracy, using SHAP and
