@@ -63,6 +63,9 @@ trust.
   <summary><b>🏡 Project Name 2 - Hire Me – Job Management System</b></summary>
   <br>
   <p align="center">
+     <a href="https://github.com/thrishakp/website" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+    </a>
   </p>
   <ul>
     <li>
