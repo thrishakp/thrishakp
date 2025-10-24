@@ -18,7 +18,7 @@ Data Science with AI/ML
 <h2 align="center">🚀 Projects</h2>
 
 <ul>
-  <li><a href="https://github.com/thrisha-kr/healthcare-ml">Healthcare ML App</a></li>
-  <li><a href="https://github.com/thrisha-kr/python-mini-projects">Python Mini Projects</a></li>
+  <li><a href="https://github.com/thrishakp/Healthapplication">Healthcare ML App</a></li>
+  <li><a href="https://github.com/thrishakp/website">Hire Me Job Portal</a></li>
 </ul>
 
