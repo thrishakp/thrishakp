@@ -44,7 +44,6 @@
   <summary><b>💼 Project Name 1 – Health Care And Well-Being Application </b></summary>
   <br>
   <p align="center">
-    <img src="https://media.giphy.com/media/placeholder1/giphy.gif" width="450" style="border-radius:12px; transition: 0.3s; box-shadow:0 0 20px #00F5FF;" onmouseover="this.style.boxShadow='0 0 30px #0ff';" onmouseout="this.style.boxShadow='0 0 20px #00F5FF';">
   </p>
   <ul>
     <li>Developed a machine learning-powered web app to predict health risks with 85% accuracy, using SHAP and
@@ -53,7 +52,7 @@ LIME for explainability.
 trust.
 •Built a responsive Flask-based frontend integrated with SQL database for secure data handling.</li>
     <li>Python,Flask,SQL,ML.</li>
-    <li>Key features.</li>
+  
   </ul>
 </details>
 
