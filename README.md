@@ -79,7 +79,7 @@ trust.
 ## 🧠 Quick Facts About Me
 🎯 Passionate about **Python, Full-Stack, AI & Data Analytics**.    
 🌱 Learning **Data Science & AI/ML**.  
-⚡ Fun Fact: “Code is my art — every line tells a story.”  
+⚡ Fun Fact: “Always learning, experimenting, and sometimes breaking things… then fixing them with style”  
 
 ---
 
