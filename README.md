@@ -10,9 +10,8 @@
 </h1>
 
 <!-- Animated Typing Subtitle -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=black&center=true&vCenter=true&width=600&lines=Fresher;">
-</h2>
+<h2 align="center">Fresher</h2>
+
 
 <!-- 🌊 Gradient Header Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=100&section=header&text=Welcome+To+My+Code+Universe!&fontSize=22&fontColor=1B1F23" width="100%"/>
