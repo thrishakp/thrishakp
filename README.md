@@ -57,7 +57,7 @@ trust.
 </details>
 
 <details>
-  <summary><b>🏡 Project Name 2 – Short Description</b></summary>
+  <summary><b>🏡 Project Name 2 Hire Me – Job Management System</b></summary>
   <br>
   <p align="center">
     <img src="https://media.giphy.com/media/placeholder2/giphy.gif" width="450" style="border-radius:12px; transition: 0.3s; box-shadow:0 0 20px #00F5FF;" onmouseover="this.style.boxShadow='0 0 30px #0ff';" onmouseout="this.style.boxShadow='0 0 20px #00F5FF';">
