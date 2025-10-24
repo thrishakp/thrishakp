@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm Thrisha!
 
-<!--
-**thrishakp/thrishakp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fresher | 💻 Python & Frontend Learner  
+📊 Interested in Data Analytics, Web Development & AI  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Python 🐍
+- HTML, CSS, JavaScript
+- Django, React (learning)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+Data Science & Machine Learning  
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/thrishakp/) | [Email](mailto:thrisha6860@gmail.com)
