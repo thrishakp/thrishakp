@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" style="position: absolute; top: 0; left: 0; z-index: -1; opacity: 0.2;"/>
 
 <!-- 🌈 Floating Neon Name -->
-<h1 align="center" style="color:#00F5FF; text-shadow: 0 0 8px #00F5FF, 0 0 15px #0ff, 0 0 20px #0ff, 0 0 40px #00F5FF;">
+<h1 align="center" style="color:#black; text-shadow: 0 0 8px #00F5FF, 0 0 15px #0ff, 0 0 20px #0ff, 0 0 40px #00F5FF;">
   👩‍💻 Thrisha KP
 </h1>
 
