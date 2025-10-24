@@ -10,7 +10,7 @@
 - Git & GitHub
 
 ## 🌱 Currently Learning
-Data Science & Machine Learning  
+Data Science with AI/ML  
 
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/thrishakp/) | [Email](mailto:thrisha6860@gmail.com)
