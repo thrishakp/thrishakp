@@ -28,9 +28,6 @@
   <a href="mailto:thrisha6860@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
 </p>
 
 ---
