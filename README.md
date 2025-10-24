@@ -11,7 +11,7 @@
 
 <!-- Animated Typing Subtitle -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=black&center=true&vCenter=true&width=600&lines=Fresher;Full+Stack+Developer+%28Python%29;Learning+Data+Science+%7C+AI%2FML;Interested+in+Data+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=black&center=true&vCenter=true&width=600&lines=Fresher;Full+Stack+Developer+%28Python%29;Learning+Data+Science+%7C+AI%2FML;" alt="Typing SVG" />
 </h2>
 
 <!-- 🌊 Gradient Header Wave -->
@@ -78,8 +78,7 @@ trust.
 ---
 
 ## 🧠 Quick Facts About Me
-🎯 Passionate about **Python, Full-Stack, AI & Data Analytics**.  
-💬 Ask me about **Django, FastAPI, React, AI/ML projects**.  
+🎯 Passionate about **Python, Full-Stack, AI & Data Analytics**.    
 🌱 Learning **Data Science & AI/ML**.  
 ⚡ Fun Fact: “Code is my art — every line tells a story.”  
 
