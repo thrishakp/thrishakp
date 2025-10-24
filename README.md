@@ -45,6 +45,8 @@
   <br>
   <p align="center">
         <a href="https://github.com/thrishakp/Healthapplication" target="_Blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+    </a>
   </p>
   <ul>
     <li>Developed a machine learning-powered web app to predict health risks with 85% accuracy, using SHAP and
