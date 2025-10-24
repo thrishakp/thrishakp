@@ -11,7 +11,7 @@
 
 <!-- Animated Typing Subtitle -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%28Python%29;Learning+Data+Science+%7C+AI%2FML;Interested+in+Data+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=black&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%28Python%29;Learning+Data+Science+%7C+AI%2FML;Interested+in+Data+Analytics" alt="Typing SVG" />
 </h2>
 
 <!-- 🌊 Gradient Header Wave -->
@@ -22,10 +22,10 @@
   <a href="https://www.linkedin.com/in/thrishakp/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github" target="_blank">
+  <a href="https://github.com/thrishakp" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:thrisha6860@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio.com" target="_blank">
